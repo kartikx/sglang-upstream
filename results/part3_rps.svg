@@ -1,0 +1,22 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='420'>
+<text x='600.00' y='30' text-anchor='middle' font-family='sans-serif' font-size='18'>500 prompts, 1 input, 500 output</text>
+<line x1='60.00' y1='60' x2='60.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='240.00' y1='60' x2='240.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='420.00' y1='60' x2='420.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='600.00' y1='60' x2='600.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='780.00' y1='60' x2='780.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='960.00' y1='60' x2='960.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='1140.00' y1='60' x2='1140.00' y2='360' stroke='#ddd' stroke-width='1' />
+<line x1='60' y1='60.00' x2='1140' y2='60.00' stroke='#eee' stroke-width='1' />
+<line x1='60' y1='120.00' x2='1140' y2='120.00' stroke='#eee' stroke-width='1' />
+<line x1='60' y1='180.00' x2='1140' y2='180.00' stroke='#eee' stroke-width='1' />
+<line x1='60' y1='240.00' x2='1140' y2='240.00' stroke='#eee' stroke-width='1' />
+<line x1='60' y1='300.00' x2='1140' y2='300.00' stroke='#eee' stroke-width='1' />
+<line x1='60' y1='360.00' x2='1140' y2='360.00' stroke='#eee' stroke-width='1' />
+<rect x='60' y='60' width='1080' height='300' fill='none' stroke='#aaa' stroke-width='1' />
+<polyline fill='none' stroke='#1f77b4' stroke-width='2' points='165.52,359.16 891.72,359.16 904.14,354.99 910.34,349.97 916.55,349.97 922.76,350.81 928.97,348.30 935.17,350.81 941.38,349.97 947.59,352.48 953.79,353.31 960.00,349.97 966.21,346.63 972.41,351.64 978.62,349.97 984.83,346.63 991.03,349.14 997.24,352.48 1003.45,349.14 1009.66,349.14 1015.86,351.64 1022.07,347.47 1028.28,351.64 1034.48,344.96 1040.69,349.97 1046.90,344.12 1053.10,346.63 1059.31,344.12 1065.52,339.94 1071.72,346.63 1077.93,350.81 1084.14,329.08 1090.34,339.94 1096.55,352.48 1102.76,354.99 1108.97,354.99 1115.17,349.14 1121.38,354.99 1127.59,350.81 1133.79,355.82 1140.00,357.49' />
+<polyline fill='none' stroke='#ff7f0e' stroke-width='2' points='60.00,359.16 885.52,359.16 904.14,60.00 910.34,359.16 916.55,358.33 922.76,358.33 928.97,354.99 935.17,356.66 941.38,357.49 947.59,355.82 953.79,358.33 960.00,354.15 966.21,349.14 972.41,356.66 978.62,352.48 984.83,350.81 991.03,348.30 997.24,354.99 1003.45,349.97 1009.66,351.64 1015.86,352.48 1022.07,349.97 1028.28,353.31' />
+<rect x='920' y='40' width='12' height='12' fill='#1f77b4' /><text x='938' y='52' font-family='sans-serif' font-size='14'>decode rps</text><rect x='1040' y='40' width='12' height='12' fill='#ff7f0e' /><text x='1058' y='52' font-family='sans-serif' font-size='14'>prefill rps</text>
+<text x='600.00' y='410' text-anchor='middle' font-family='sans-serif' font-size='14'>epoch seconds</text>
+<text x='20' y='210.00' text-anchor='middle' transform='rotate(-90,20,210.00)' font-family='sans-serif' font-size='14'>requests per second</text>
+</svg>
